@@ -1,5 +1,5 @@
 Tugas Akhir Proyek1
-TI-2A
-01 | Afif Qomarul Ghulam
-05 | Clara Adriana Sidauruk
-26 | Reynaldi Fakhri Pratama
+TI-2A<br>
+01 | Afif Qomarul Ghulam<br>
+05 | Clara Adriana Sidauruk<br>
+26 | Reynaldi Fakhri Pratama<br>
